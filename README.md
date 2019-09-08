@@ -1,2 +1,2 @@
 # remote-sensing-image-segmentation
-some codes in seg
+some codes in remote sensing image segmentation
